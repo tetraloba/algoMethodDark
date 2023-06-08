@@ -1,0 +1,16 @@
+{
+    "name": "algoMethodDark",
+    "version": "0.0.0",
+    "manifest_version": 3,
+    "description": "dark theme for algo method",
+    "content_scripts": [
+      {
+        "matches": [
+          "https://algo-method.com/*"
+        ],
+        "css": [
+          "style.css"
+        ]
+      }
+    ]
+}

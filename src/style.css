@@ -1,0 +1,19 @@
+html {
+    --bg-theme-darkest: #001400 !important;
+    --theme: #003300 !important;
+    --theme-darkest: #003030 !important; /* トップバー */
+    font-size: 18px !important;
+    background-color: #001400 !important;
+    --theme-lighter: #113311 !important; /* 教科書一覧の背景 */
+    --dark: #cccccc !important; /* コンテンツ名と教科書名以外の多くの文字。 */
+    --white: #cccccc !important; /* 教科書一覧の教科書名の文字？ */
+    --text-color-light: #efffff; /* トップバーの文字？ */
+    --bg-success: #003322 !important; /* 練習問題一覧のACした練習問題名の背景 */
+    --gray-lighter: #242424 !important; /* インラインコードブロックの背景 */
+}
+.Common_child__k1Aqz {
+    background-color: black !important;
+}
+.Common_tasks__haWAq {
+    background-color: #001100 !important; /* 練習問題一覧の練習問題名の背景 */
+}
